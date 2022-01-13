@@ -6,15 +6,15 @@ I am Multi-Discipline Developer that is part designer, research analyst and soci
 
 Specialties of mine are Customer Service, User Experience and Project Management for Product Design and Web Development . I work equally well with groups or within unsupervised environments; also effectively working with peers and various levels of management in diverse settings.
 
-With 15 years of Customer Service experience in retail management, and 10 years of design experience striving to be the best is a part of my professional repertoire. My career has been further enriched by classes in, management diversity, programming boot camps.
+With 15 years of Customer Service experience in Retail Management, and 10 years of Design experience striving to be the best is a part of my professional repertoire. My career has been further enriched by classes in, management diversity, programming boot camps.
 
-Skills: PYTHON | FIGMA | HTML | CSS | JAVA SCRIPT 
+Skills: PYTHON |FIGMA |REACT| HTML | CSS | JAVA SCRIPT|CLOUD COMPUTING
 
 - 🌱 I’m currently learning Google Cloud Platform  
 - 👯 I’m looking to collaborate on Agile development & Design 
 - 🤔 I’m looking for help with Collaboration  
 - 💬 Ask me about Design & Business Development 
-- ⚡ Fun fact: I am a freelance Graphic Illurstator
+- ⚡ Fun fact: I am a freelance Fashion Designer| Stylist
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Boyd-Sapeur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/boyd_sapeur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrboydaaa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MrBoydKnows)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/boyd_sapeur/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/boyd_sapeur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/boyd-sapeur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15100230)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/MrBoydKnows)  
