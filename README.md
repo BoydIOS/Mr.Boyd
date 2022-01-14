@@ -8,9 +8,11 @@ Specialties of mine are Customer Service, User Experience and Project Management
 
 With 15 years of Customer Service experience in Retail Management, and 10 years of Design experience striving to be the best is a part of my professional repertoire. My career has been further enriched by classes in, management diversity, programming boot camps.
 
-Skills: PYTHON |FIGMA |REACT| HTML | CSS | JAVA SCRIPT|CLOUD COMPUTING
+Skills: PYTHON |REACT| HTML | CSS | JAVA SCRIPT| CLOUD COMPUTING | BRAND MANAGEMENT 
 
-- 🌱 I’m currently learning Google Cloud Platform  
+Tools: Visual Code | Dreamweaver | Adobe X | Figma| Cloud Console | Adobe Creavtive Suite | Miro 
+
+- 🌱 I’m currently working Google Cloud Platform  
 - 👯 I’m looking to collaborate on Agile development & Design 
 - 🤔 I’m looking for help with Collaboration  
 - 💬 Ask me about Design & Business Development 
